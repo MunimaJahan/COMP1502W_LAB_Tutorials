@@ -9,7 +9,7 @@ public class mainPrime {
 		    System.out.println(/*isPrime(3)*/);
 		    System.out.println(isPrime(15));
 		    System.out.println(isPrime(10));
-		    System.out.println(/*isPrime(11)*/);
+		    System.out.println(isPrime(11));
 		    System.out.println(isPrime(13));
 		}
 		//isPrime goes here
