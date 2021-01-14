@@ -1,7 +1,8 @@
 
 public class mainPrime {
 
-	  public static void main(String[] args) {
+	//This is our main method 
+	public static void main(String[] args) {
 		    System.out.println("Hello Prime!");
 		    
 		    System.out.println(/*isPrime(2)*/);
